@@ -1,0 +1,10 @@
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\bin\Debug\SpatialExplore.exe.config
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\bin\Debug\SpatialExplore.exe
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\bin\Debug\SpatialExplore.pdb
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.csprojAssemblyReference.cache
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.Form1.resources
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.Properties.Resources.resources
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.csproj.GenerateResource.cache
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.csproj.CoreCompileInputs.cache
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.exe
+C:\Users\86132\OneDrive\桌面\2024试题\SpatialExplore\SpatialExplore\obj\Debug\SpatialExplore.pdb
