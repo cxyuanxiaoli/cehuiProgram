@@ -1,0 +1,10 @@
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\bin\Debug\Duanmian2.exe.config
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\bin\Debug\Duanmian2.exe
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\bin\Debug\Duanmian2.pdb
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.csprojAssemblyReference.cache
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.Form1.resources
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.Properties.Resources.resources
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.csproj.GenerateResource.cache
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.csproj.CoreCompileInputs.cache
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.exe
+C:\code\C#2017\ZonghengDuanmian\Duanmian2\obj\Debug\Duanmian2.pdb
