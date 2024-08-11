@@ -1,0 +1,10 @@
+C:\code\C#2017\WudianNihe\WudianNihe2\bin\Release\WudianNihe2.exe.config
+C:\code\C#2017\WudianNihe\WudianNihe2\bin\Release\WudianNihe2.exe
+C:\code\C#2017\WudianNihe\WudianNihe2\bin\Release\WudianNihe2.pdb
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.csprojAssemblyReference.cache
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.Form1.resources
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.Properties.Resources.resources
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.csproj.GenerateResource.cache
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.csproj.CoreCompileInputs.cache
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.exe
+C:\code\C#2017\WudianNihe\WudianNihe2\obj\Release\WudianNihe2.pdb
