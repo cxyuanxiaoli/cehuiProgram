@@ -1,0 +1,10 @@
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\bin\Debug\QianfangJiaohui.exe.config
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\bin\Debug\QianfangJiaohui.exe
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\bin\Debug\QianfangJiaohui.pdb
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.csprojAssemblyReference.cache
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.Form1.resources
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.Properties.Resources.resources
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.csproj.GenerateResource.cache
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.csproj.CoreCompileInputs.cache
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.exe
+C:\code\C#2017\QianfangJiaohui\QianfangJiaohui\obj\Debug\QianfangJiaohui.pdb
